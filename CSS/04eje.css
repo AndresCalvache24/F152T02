@@ -1,0 +1,36 @@
+body {
+  width: 50%;
+  height: 30%;
+}
+#parrafo1 {
+   border: 2px solid blue;
+
+}
+#parrafo2 {
+   border: 2px dashed blue;
+
+}
+#parrafo3 {
+   border: 2px dotted blue;
+
+}
+#parrafo4 {
+   border: 2px double blue;
+
+}
+#parrafo5 {
+   border: 2px groove blue;
+
+}
+#parrafo6 {
+   border: 5px ridge blue;
+
+}
+#parrafo7 {
+   border: 2px inset blue;
+
+}
+#parrafo8 {
+   border: 5px groove rgb(0, 255, 200);
+
+}

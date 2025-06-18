@@ -1,0 +1,28 @@
+* {
+  background-color: darkkhaki;
+}
+body {
+}
+p {
+  width: 50%;
+  height: auto;
+}
+.parrafo1 {
+  background-color: yellow;
+  color: blue;
+  margin-left: 50%;
+  border: 2px solid blue;
+  padding: 10% 10% 5% 5%;
+}
+.parrafo2 {
+  background-color: violet;
+  color: #ff0000;
+  margin-left: 70%;
+  border: 2px solid rgb(255, 0, 0);
+}
+.parrafo3 {
+  background-color: red;
+  color: cyan;
+  border: 2px solid rgb(255, 251, 0);
+  margin-right: auto;
+}
