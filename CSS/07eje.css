@@ -1,0 +1,17 @@
+.block{
+    display: block;
+}
+.inline{
+    display: inline-block;
+}
+.inboton{
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+    background-color: #FF6F3C;  
+    border: 2px solid #347433;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+}
